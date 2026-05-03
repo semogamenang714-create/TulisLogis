@@ -1,4 +1,16 @@
 {
-  "framework": "create-react-app",
-  "regions": ["iad1"]
+  "version": 2,
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@vercel/static-build",
+      "config": { "distDir": "build" }
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/"
+    }
+  ]
 }
