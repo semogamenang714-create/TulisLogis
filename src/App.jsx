@@ -1,4 +1,3 @@
-```react
 import React, { useState, useEffect } from 'react';
 import { 
   Home, PenTool, History, BarChart3, Newspaper, 
@@ -246,4 +245,3 @@ const App = () => {
 
 export default App;
 
-```
