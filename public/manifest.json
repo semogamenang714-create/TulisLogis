@@ -1,0 +1,8 @@
+{
+  "short_name": "TulisLogis",
+  "name": "TulisLogis Academic Lab",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#FDFCFB",
+  "background_color": "#FDFCFB"
+}
