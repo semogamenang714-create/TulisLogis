@@ -1,1 +1,1 @@
-Update sistem TulisLogis
+Update sistem TulisLogis.
